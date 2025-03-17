@@ -7,7 +7,7 @@ This project implements an image classifier using a deep learning model trained 
 Initially, training was performed on provided Workspace, but due to several issues, the training process was moved to **Kaggle** for better computational resources and efficiency. The implementation is inspired by Python resources, Udacity course materials, and various GitHub repositories.  
 
 ## References  
-The project takes inspiration and guidance from various users on GitHub
+The project takes inspiration and guidance from various sources like google, gitHub,resources provided in this program,etc
 ## Features  
 - Uses a **pretrained model** for feature extraction.  
 - Implements **transfer learning** for better accuracy.  
